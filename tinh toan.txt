@@ -3,3 +3,5 @@ ta co hinh vuong
 ta tu remote 
 ta tu local
 ta tu remote 2 
+ta tu local 2
+
